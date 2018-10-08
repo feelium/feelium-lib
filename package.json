@@ -1,0 +1,27 @@
+{
+  "name": "feelium-lib",
+  "version": "1.0.1",
+  "description": "A javascript Feelium library for node.js and browsers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feelium/feelium-lib-rpc.git"
+  },
+  "keywords": [
+    "feelium-rpc",
+    "rpc",
+    "code",
+    "feelium",
+    "json",
+    "rpc",
+    "code",
+    "for",
+    "feelium"
+  ],
+  "author": "swetanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feelium/feelium-lib-rpc/issues"
+  },
+  "homepage": "https://github.com/feelium/feelium-lib-rpc#readme"
+}
