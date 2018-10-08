@@ -55,4 +55,4 @@ var run = function() {
 
 **Code released under [the MIT license](https://github.com/feelium/feelium-lib/master/LICENSE).**
 
-Copyright 2013-2018 feelium.co, Inc.
+Copyright 2018 feelium.co.
